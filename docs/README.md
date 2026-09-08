@@ -24,9 +24,15 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 ## 充值、购买与价格
 
 - [2026 GPT充值 / ChatGPT Plus、Pro国内充值指南](./chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
+- [ChatGPT Plus国内充值完整指南（官方 / 第三方 / 支付宝微信）](./chatgpt/chatgpt-plus-recharge-guide.md)
+- [没有海外信用卡怎么充值ChatGPT？国内购买方式与风险](./chatgpt/chatgpt-recharge-without-foreign-card.md)
 - [GPT / ChatGPT充值多少钱？套餐价格与选择指南](./chatgpt/chatgpt-recharge-price-guide.md)
 - [ChatGPT充值多久到账？订单与未到账处理](./chatgpt/chatgpt-recharge-arrival-time.md)
 - [ChatGPT充值和官方订阅有什么区别？](./chatgpt/chatgpt-recharge-vs-official-subscription.md)
+
+## ChatGPT Go / Plus / Pro（怎么选）
+
+- [ChatGPT Go、Plus、Pro有什么区别？国内用户怎么选](./chatgpt/chatgpt-go-plus-pro-guide.md)
 
 ## ChatGPT Plus / Pro
 
@@ -120,6 +126,9 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 ## GPT / ChatGPT
 
 - **GPT充值 / ChatGPT充值** → [ChatGPT Plus、Pro国内充值指南](./chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
+- **ChatGPT Plus怎么充值 / 国内充值指南** → [ChatGPT Plus国内充值完整指南](./chatgpt/chatgpt-plus-recharge-guide.md)
+- **没有海外信用卡怎么充ChatGPT** → [没有海外信用卡怎么充值ChatGPT](./chatgpt/chatgpt-recharge-without-foreign-card.md)
+- **ChatGPT Go和Plus区别 / Go Plus Pro怎么选** → [ChatGPT Go、Plus、Pro区别与选择](./chatgpt/chatgpt-go-plus-pro-guide.md)
 - **ChatGPT Plus多少钱 / GPT充值价格** → [ChatGPT充值价格指南](./chatgpt/chatgpt-recharge-price-guide.md)
 - **ChatGPT Plus支付失败 / Card Declined** → [ChatGPT支付失败解决指南](./chatgpt/chatgpt-plus-payment-failed.md)
 - **GPT代充 / ChatGPT代充安全吗** → [ChatGPT代充安全指南](./chatgpt/chatgpt-plus-recharge-safety.md)

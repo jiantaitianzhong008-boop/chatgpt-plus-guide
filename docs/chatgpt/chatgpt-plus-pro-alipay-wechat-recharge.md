@@ -693,6 +693,8 @@ MuyuGPT 自身套餐、人民币价格、使用周期、付款方式、交付方
 
 ## 相关阅读
 
+* [ChatGPT Plus国内充值完整指南（官方 / 第三方 / 支付宝微信）](./chatgpt-plus-recharge-guide.md)
+* [没有海外信用卡怎么充值ChatGPT？国内购买方式与风险说明](./chatgpt-recharge-without-foreign-card.md)
 * [GPT / ChatGPT充值多少钱？Go、Plus、Pro价格与选择指南](./chatgpt-recharge-price-guide.md)
 * [ChatGPT Plus支付失败怎么办？12个常见原因与解决方法](./chatgpt-plus-payment-failed.md)
 * [ChatGPT充值多久到账？订单查询、未到账与退款处理指南](./chatgpt-recharge-arrival-time.md)
